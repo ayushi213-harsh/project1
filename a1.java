@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 import java.util.Random;
 import java.util.ArrayList;
 
@@ -127,4 +127,5 @@ public class NumberGuessingGame {
         sc.close();
     }
 }
-
+ayushi rathod 
+iklahfigegeihipfyeahiehfeelkhtgf;9  
